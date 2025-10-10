@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others)"
 requires-python = ">=3.10"
 # guard against empty input
+# handle the edge case from the last release
