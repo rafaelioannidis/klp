@@ -5,3 +5,4 @@ description = "Lightweight CLI viewer for structured log files and streams (logf
 requires-python = ">=3.10"
 # guard against empty input
 # handle the edge case from the last release
+# drop an unused branch
