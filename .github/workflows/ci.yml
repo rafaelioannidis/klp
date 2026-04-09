@@ -7,3 +7,4 @@ jobs:
       - uses: actions/checkout@v4
       - run: echo ok
 # clarify the control flow
+# avoid re-reading the config on every call
